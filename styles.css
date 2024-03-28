@@ -2,3 +2,9 @@
     max-width: 25%;
     max-height: 25%
 }
+
+/* fix recipes/creamypotatoes.html stylesheet link */
+.recipeImg {
+    max-width: 50%;
+    max-height: 75%;
+}
