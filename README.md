@@ -6,7 +6,7 @@ I am using many recipes from <a href="allrecipes.com">AllRecipes</a> to do this 
 
 <ul>
     <li><a href="https://www.allrecipes.com/recipe/15925/creamy-au-gratin-potatoes/">Creamy au Gratin Potatoes</a></li>
-    <li><a href="https://www.allrecipes.com/recipe/214025/scalloped-pineapple-souffle/"></a></li>
+    <li><a href="https://www.allrecipes.com/recipe/214025/scalloped-pineapple-souffle/">Scalloped Pineapple Souffle</a></li>
     <li><a href="https://www.allrecipes.com/recipe/233295/fondant-potatoes/">Fondant Potatoes</a></li>
     <li><a href="https://www.allrecipes.com/recipe/240290/moms-scalloped-potatoes/">Scalloped Potatoes</a></li>
     <li><a href="https://www.allrecipes.com/recipe/213492/smashed-potatoes/">Crispy Smashed Potatoes</a></li>
